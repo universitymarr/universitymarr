@@ -6,7 +6,7 @@ This is the repository where you can share the material on the exams of the Arti
 
 Each repo has a ***table*** in which all the information that may be useful is marked.
 
-To help enrich the repo or to become an administrator, write me on 
+To help enrich repositories or to become an administrator, write me on 
 
 <a href="https://twitter.com/svevapepe"><img src="https://img.icons8.com/fluency/48/000000/twitter-circled.png"></a>
 <a href="https://www.linkedin.com/in/sveva-pepe-ba9945123/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"></a>

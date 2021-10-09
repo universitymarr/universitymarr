@@ -10,12 +10,7 @@ To help enrich repositories or to become an administrator, write me on
 
 <a href="https://twitter.com/svevapepe"><img src="https://img.icons8.com/fluency/48/000000/twitter-circled.png"></a>
 <a href="https://www.linkedin.com/in/sveva-pepe-ba9945123/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"></a>
-# ****************** *IMPORTANT* ******************* 
 
-<img src="https://media.giphy.com/media/3og0IOa1X349KZ8E1i/giphy.gif?cid=ecf05e47rba41vpti4uq3cznij9y4f1utknj00pnls63lsx6&rid=giphy.gif&ct=g">
-
-This account needs someone to manage it from November onwards. If you have used it, and I know you have, think about who will come after you. :)
-Otherwise the repos will be deleted by the end of the year :wink:	
 <!--
 **universitymarr/universitymarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
